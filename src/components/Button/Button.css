@@ -1,0 +1,19 @@
+.btn {
+    margin-top: 10px;
+    font-weight: bold;
+    border: none;
+    color: #cccccc;
+    cursor: pointer;
+}
+
+.btnJoinUs {
+    height: 40px;
+    width: 150px;
+    background-color: #666666;
+}
+
+.btnView {
+    height: 40px;
+    width: 100px;
+    background-color: #808080;
+  }

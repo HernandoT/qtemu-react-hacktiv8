@@ -1,0 +1,8 @@
+.heading {
+    margin-left: 1%;
+    flex: 1;
+}
+
+.no-margin {
+    margin: 0px
+}
