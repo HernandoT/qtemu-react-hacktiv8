@@ -1,0 +1,11 @@
+.members > .container {
+  display: flex;
+}
+
+.members > .container > .content {
+  flex: 19;
+}
+
+.members > .container > .content > p {
+  margin: 10px 0 0;
+}
